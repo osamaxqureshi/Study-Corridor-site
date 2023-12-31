@@ -1,3 +1,4 @@
+
 body {
   font-family: "Montserrat", sans-serif;
   line-height: 1.5;
@@ -84,7 +85,7 @@ a:hover {
 
 .travel-image {
   width: 100%;
-  position: absolute;
+  position: reletive;
   left: 10%;
 }
 
