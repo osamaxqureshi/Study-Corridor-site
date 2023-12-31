@@ -80,6 +80,12 @@ a:hover {
   bottom: -190px;
 }
 
+.travel-image {
+  width: 100%;
+  position: reletive;
+  left: 10%;
+}
+
 /* Fetures Section */
 
 #features {
