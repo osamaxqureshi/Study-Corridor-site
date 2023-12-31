@@ -84,7 +84,7 @@ a:hover {
 
 .travel-image {
   width: 100%;
-  position: reletive;
+  position: absolute;
   left: 10%;
 }
 
